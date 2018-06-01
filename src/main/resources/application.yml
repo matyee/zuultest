@@ -8,4 +8,4 @@ zuul:
       url: http://worldclockapi.com/api/json/est
 azure:
   application-insights:
-    instrumentation-key: eeb3e6b7-a23d-43a5-9558-2ab615cfc1c6
+    instrumentation-key: 00000000-0000-0000-0000-000000000000
