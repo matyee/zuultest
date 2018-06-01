@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationInsightsAgent>
+	<Instrumentation>
+
+		<BuiltIn enabled="true">
+			<Jedis enabled="false" />
+
+			<MaxStatementQueryLimitInMS>1000</MaxStatementQueryLimitInMS>
+		</BuiltIn>
+
+		<!-- Collect data about caught exceptions and method execution times -->
+
+	</Instrumentation>
+</ApplicationInsightsAgent>
